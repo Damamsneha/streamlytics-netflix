@@ -69,7 +69,7 @@ jupyter notebook netflix-eda.ipynb
 
 📌 **GitHub Repo** → [Streamlytics-Netflix](https://github.com/Damamsneha/streamlytics-netflix)  
 📌 **Dataset Source** → [Netflix Titles Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-📌 **Connect on LinkedIn** → [Your LinkedIn Profile](https://www.linkedin.com/in/damam-sneha/)  
+📌 **Connect on LinkedIn** → [LinkedIn Profile](https://www.linkedin.com/in/damam-sneha/)  
 
 ---
 
